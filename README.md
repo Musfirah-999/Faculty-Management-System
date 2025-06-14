@@ -1,0 +1,2 @@
+Designed and implemented a role-based Faculty Management System using C# and WinForms with direct SQL queries. The application facilitates comprehensive management of faculty profiles, workload distribution, room assignments, and project oversight. It includes secure user authentication with three distinct roles: Admin, Faculty Member, and Department Head.The system is integrated with a normalized relational database and incorporates features such as request handling and efficient resource allocation.
+
