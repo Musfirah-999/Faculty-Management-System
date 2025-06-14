@@ -1,0 +1,404 @@
+C:\Users\hp\source\repos\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.exe
+C:\Users\hp\source\repos\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.deps.json
+C:\Users\hp\source\repos\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.runtimeconfig.json
+C:\Users\hp\source\repos\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\source\repos\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfo.cs
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\refint\Midproject.dll
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.genruntimeconfig.cache
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\ref\Midproject.dll
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.login.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.forgotpassword.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Signup.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Adminhome.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Properties.Resources.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Headhome.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.facultyhome.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Coursemanage.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.workload.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.requestmanage.resources
+C:\Users\hp\source\repos\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.facultymanage.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.exe
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.deps.json
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.runtimeconfig.json
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Properties.Resources.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.login.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.workload.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.forgotpassword.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Signup.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Adminhome.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Headhome.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.facultyhome.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.Coursemanage.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.requestmanage.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.facultymanage.resources
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfo.cs
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\refint\Midproject.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.genruntimeconfig.cache
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\ref\Midproject.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\DBS25P021\Midproject\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.Up2Date
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Midproject.exe
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Midproject.deps.json
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Midproject.runtimeconfig.json
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.Properties.Resources.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.Adminhome.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.Coursemanage.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.facultyhome.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.forgotpassword.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.Headhome.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.login.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.requestmanage.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.Signup.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.workload.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfo.cs
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.Up2Date
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\refint\Midproject.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.genruntimeconfig.cache
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\ref\Midproject.dll
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.UI.resourse.resources
+C:\Users\hp\Desktop\Midprojectdb\Midproject\obj\Debug\net8.0-windows\Midproject.UI.profilemanage.resources
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Midproject.exe
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Midproject.deps.json
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Midproject.runtimeconfig.json
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\current project\Midproject\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.Properties.Resources.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.Adminhome.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.Coursemanage.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.facultyhome.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.forgotpassword.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.Headhome.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.login.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.profilemanage.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.requestmanage.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.resourse.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.Signup.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfo.cs
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.Up2Date
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\refint\Midproject.dll
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.genruntimeconfig.cache
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\ref\Midproject.dll
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.Semestermanage.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.Adminfaculty.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.roommanage.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.Consumables.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.projectmanage.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.assignworkload.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.facultycourse.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.workload.resources
+C:\Users\hp\Desktop\current project\Midproject\obj\Debug\net8.0-windows\Midproject.UI.workloadassign.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Midproject.exe
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Midproject.deps.json
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Midproject.runtimeconfig.json
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.Properties.Resources.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.Adminhome.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.assignworkload.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.Consumables.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.Coursemanage.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.Adminfaculty.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.facultycourse.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.facultyhome.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.forgotpassword.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.Headhome.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.login.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.profilemanage.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.projectmanage.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.requestmanage.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.resourse.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.roommanage.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.Semestermanage.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.Signup.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.workload.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.workloadassign.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfo.cs
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.sourcelink.json
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.Up2Date
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\refint\Midproject.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.pdb
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.genruntimeconfig.cache
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\ref\Midproject.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.FacultyRoomAllocation.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.facultyrequest.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.courseschedule.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.facultyprojects.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.facultyadminrole.resources
+C:\Users\hp\Desktop\2024-CS-21\Midproject\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\hp\Desktop\2024-CS-21\Midproject\obj\Debug\net8.0-windows\Midproject.UI.report.resources
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Midproject.exe
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Midproject.deps.json
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Midproject.runtimeconfig.json
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Midproject.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Midproject.pdb
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\itextsharp.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Bcl.HashCode.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\2nd sem\MidDB\Midproject\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.AssemblyReference.cache
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.Properties.Resources.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.Adminhome.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.assignworkload.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.Consumables.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.Coursemanage.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.courseschedule.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.Adminfaculty.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.facultyadminrole.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.facultycourse.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.facultyhome.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.facultyprojects.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.facultyrequest.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.FacultyRoomAllocation.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.forgotpassword.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.Headhome.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.login.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.profilemanage.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.projectmanage.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.report.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.requestmanage.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.resourse.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.roommanage.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.Semestermanage.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.Signup.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.workload.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.UI.workloadassign.resources
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.GenerateResource.cache
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfoInputs.cache
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.AssemblyInfo.cs
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.CoreCompileInputs.cache
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.csproj.Up2Date
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.dll
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\refint\Midproject.dll
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.pdb
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\Midproject.genruntimeconfig.cache
+E:\2nd sem\MidDB\Midproject\obj\Debug\net8.0-windows\ref\Midproject.dll

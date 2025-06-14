@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\courseschedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\CreateUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\assignworkload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Consumables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\facultyadminrole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\facultycourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\facultyprojects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\facultyrequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FacultyRoomAllocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\profilemanage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\projectmanage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\resourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\roommanage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Semestermanage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\workload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\forgotpassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\adminhomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\headhomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\facultyhomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\coursemanag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\requestmanag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
